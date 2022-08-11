@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    font-family: Trebuchet MS;
+    font-size: 18px;
+}
+.banner01 { margin-top: 30px;
+    width: 100%;
+}
+.cafe:hover {
+    background-color: rgb(146, 104, 27);
+    border-bottom: 1px white;
+}
+.rojo:hover {
+    background-color: rgb(238, 10, 10);
+    border-bottom: 1px white;
+}
+.altura2 { height: 40px;
+    display: flex;
+    justify-content: center;
+}
+.segunda { width: 100%;
+}
+.banner_dos { margin-top: 30px;
+}
+.tercera { width: 100%;
+}
+.banner_tres {
+    display: flex;
+    justify-content: center;
+}
+.altura3 { height: 450px;
+    display: flex;
+    justify-content: center
+}
+.altura4 { height: 200px;
+    display: flex;
+    justify-content: center
+}
+.rojo2 {
+    background-color: rgb(226, 79, 21);
+}
